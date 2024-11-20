@@ -1,4 +1,5 @@
-# module5-challenge - Pymaceuticals: Data Visualisation and Statistical Analysis
+# module5-challenge
+Pymaceuticals: Data Visualisation and Statistical Analysis
 
 
 ## Contents  
