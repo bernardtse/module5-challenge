@@ -22,8 +22,8 @@ As the senior data analyst, the task was to clean and process the data, conduct 
 
 
 **Raw Data**  
-- `data/Mouse_metadata.csv`  
-- `data/Study_results.csv`  
+- `data/mouse_metadata.csv`  
+- `data/study_results.csv`  
 
 
 ## 3. Deployment
@@ -36,6 +36,7 @@ To run this challenge, ensure the following Python libraries are installed:
 
 Place the raw data files in a directory named `data` to align with the notebook's structure.  
 
+![MatPlotLib](images/pyplot.png)
 
 ## 4. Data Analysis
 
@@ -54,6 +55,7 @@ Place the raw data files in a directory named `data` to align with the notebook'
 - **Visualisation Techniques:** Bar charts and pie charts summarise treatment distribution, while scatter plots and regression lines illustrate tumour-weight correlations.  
 - **Statistical Insights:** Quartile analysis identified potential outliers for non-Capomulin treatments, while linear regression quantified the tumour-weight relationship.  
 
+![Linear Regression](images/linear_regression.png)
 
 ## 5. References  
 
